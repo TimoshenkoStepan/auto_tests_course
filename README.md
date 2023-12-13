@@ -1,1 +1,1 @@
-# Auto tests course (Автоматизация тестирования с помощью Selenium и Python) from stepik.org
+# Auto tests course (Автоматизация тестирования с помощью Selenium и Python) from https://stepik.org/course/575/info
